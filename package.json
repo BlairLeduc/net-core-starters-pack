@@ -1,0 +1,34 @@
+{
+    "name": "net-core-starters-pack",
+    "displayName": ".NET Core Starter's Pack",
+    "description": "A extension pack containing the set of extensions that every .NET Core developer needs.",
+    "icon": "images/netcore.png",
+    "galleryBanner": {
+        "color": "#C3C3E5",
+        "theme": "light"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlairLeduc/net-core-starters-pack.git"
+    },
+    "keywords": [
+        "C#",
+        ".NET Core"
+    ],
+    "version": "0.3.0",
+    "publisher": "blairleduc",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "CoenraadS.bracket-pair-colorizer",
+        "EditorConfig.EditorConfig",
+        "PKief.material-icon-theme",
+        "eamodio.gitlens",
+        "ms-vscode.csharp",
+        "ybaumes.highlight-trailing-white-spaces"
+    ]
+}
