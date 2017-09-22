@@ -15,7 +15,7 @@
         "C#",
         ".NET Core"
     ],
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "blairleduc",
     "engines": {
         "vscode": "^1.14.0"
@@ -29,6 +29,8 @@
         "PKief.material-icon-theme",
         "eamodio.gitlens",
         "ms-vscode.csharp",
-        "ybaumes.highlight-trailing-white-spaces"
+        "ybaumes.highlight-trailing-white-spaces",
+        "dbankier.vscode-quick-select",
+        "k--kato.docomment"
     ]
 }
