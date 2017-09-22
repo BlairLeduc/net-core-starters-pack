@@ -8,7 +8,7 @@
 This VS Code extension pack adds a set of extensions to get you started with .NET Core.
 
 | Extension | Author | Version |
-|:--------- |:------ |:-------:|
+|:--------- |:------ |:------- |
 | [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | CoenraadS | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/CoenraadS.bracket-pair-colorizer.svg) |
 | [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | EditorConfig | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/EditorConfig.EditorConfig.svg) |
 | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Philipp Kief | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/PKief.material-icon-theme.svg) |
