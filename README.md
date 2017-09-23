@@ -22,3 +22,6 @@ This VS Code extension pack adds a set of extensions to get you started with .NE
 Open VS Code, run the this command:
 
     ext install net-core-starters-pack
+
+# Do you know of a great extension that's missing?
+Create a Pull Request, and I'll give it a spin.
