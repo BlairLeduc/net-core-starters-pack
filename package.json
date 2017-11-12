@@ -15,10 +15,10 @@
         "C#",
         ".NET Core"
     ],
-    "version": "0.4.1",
+    "version": "1.0.0",
     "publisher": "blairleduc",
     "engines": {
-        "vscode": "^1.14.0"
+        "vscode": "^1.18.0"
     },
     "categories": [
         "Extension Packs"
@@ -31,6 +31,7 @@
         "ms-vscode.csharp",
         "ybaumes.highlight-trailing-white-spaces",
         "dbankier.vscode-quick-select",
-        "k--kato.docomment"
+        "k--kato.docomment",
+        "aaron-bond.better-comments"
     ]
 }

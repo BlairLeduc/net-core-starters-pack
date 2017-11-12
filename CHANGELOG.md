@@ -1,6 +1,9 @@
 # .NET Core Stater's Pack Change Log
 All notable changes to the "net-core-starters-pack" extension pack will be documented in this file.
 
+## [1.0.0]
+- Added [Better Comments - Aaron Bond](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
 ## [0.4.0]
 - Added [Quick and Simple Text Selection - David Bankier](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select)
 - Added [C# XML Documentation Comments - Keisuke Kato](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)

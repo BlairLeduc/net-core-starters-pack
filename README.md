@@ -17,6 +17,7 @@ This VS Code extension pack adds a set of extensions to get you started with .NE
 | [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces) | Yves Baumes | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/ybaumes.highlight-trailing-white-spaces.svg) |
 | [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) | David Bankier | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/dbankier.vscode-quick-select.svg) |
 | [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment) | Keisuke Kato | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/k--kato.docomment.svg) |
+| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Aaron Bond | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/aaron-bond.better-comments.svg)
 
 # Installation
 Open VS Code, run the this command:
