@@ -23,7 +23,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "CoenraadS.bracket-pair-colorizer",
         "EditorConfig.EditorConfig",
         "PKief.material-icon-theme",
