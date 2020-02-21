@@ -28,7 +28,7 @@
         "EditorConfig.EditorConfig",
         "PKief.material-icon-theme",
         "eamodio.gitlens",
-        "ms-vscode.csharp",
+        "ms-dotnettools.csharp",
         "ybaumes.highlight-trailing-white-spaces",
         "dbankier.vscode-quick-select",
         "k--kato.docomment",
